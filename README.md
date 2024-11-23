@@ -13,7 +13,7 @@ Then place it into the same directory as the `infer.py` file.
 Clone the repository, navigate to the project directory, and run the inference script:
 
     ```bash
-    git clone [https://github.com/Pearlcentt/NeoPolyp]
+    git clone https://github.com/Pearlcentt/NeoPolyp
     cd UnetSeg-Assignment
     python3 infer.py --image_path image.jpeg
     ```
