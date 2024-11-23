@@ -1,6 +1,6 @@
 # NeoPolyp
 
-This project is a submit for BKAI-IGH-NeoPolyb assignment.
+This project is a submission for BKAI-IGH-NeoPolyb assignment.
 
 ## Checkpoint
 
